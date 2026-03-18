@@ -20,3 +20,4 @@ Smart contract audit reports by [iosiro](https://iosiro.com) that are not listed
 | [Strands Pilot Audit](derive/iosiro_strands-pilot-audit_2024-02-27.pdf) | 2024-02-27 |
 | [Derive Intents](derive/iosiro_derive-intents_2025-04-09.pdf) | 2025-04-09 |
 | [Derive FXToken](derive/iosiro_derive-fxtoken_2025-08-05.pdf) | 2025-08-05 |
+| [Derive OFT and WBI Audit](derive/iosiro_derive-oft-and-wbi_2026-03-18.pdf) | 2026-03-18 |
